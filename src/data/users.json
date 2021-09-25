@@ -1,0 +1,43 @@
+[
+    {
+        "email": "email@email.test",
+        "password": "p422w0rd",
+        "token": "123123123123",
+        "profiles": [
+            {
+                "id": 1,
+                "name": "Herr Max Mustermann"
+            },
+            {
+                "id": 2,
+                "name": "Frau Mina Musterfrau"
+            }
+        ]
+    },
+    {
+        "email": "musab@abuzaid.com",
+        "password": "123",
+        "token": "123456",
+        "profiles": [
+            {
+                "id": 1,
+                "name": "musab abuzaid"
+            },
+            {
+                "id": 2,
+                "name": "reta reta"
+            }
+        ]
+    },
+    {
+        "email": "test@test.com",
+        "password": "123",
+        "token": "521489",
+        "profiles": [
+            {
+                "id": 1,
+                "name": "profile of test"
+            }
+        ]
+    }
+]

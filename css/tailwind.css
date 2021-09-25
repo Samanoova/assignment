@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.account-tabs .router-link-active {
+  @apply border-t border-r border-l -mb-px bg-white;
+}
